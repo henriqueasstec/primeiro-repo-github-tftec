@@ -1,0 +1,3 @@
+# Configurações de Emergência
+emergency_mode: true
+max_retries: 5
